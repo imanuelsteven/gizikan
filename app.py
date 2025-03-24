@@ -76,7 +76,7 @@ st.markdown(
 
 with st.sidebar:
     st.markdown('<p class="sidebar-font">Gizikan Profile</p>', unsafe_allow_html=True)
-    st.image("gizikan/Assets/logo.png", use_container_width =True)
+    st.image("Assets/logo.png", use_container_width =True)
     st.markdown("---")
     st.write(
         """ 
