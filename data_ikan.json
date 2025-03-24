@@ -3,7 +3,7 @@
         "nama": "Tuna",
         "nama_inggris": "Yellowfin Tuna",
         "nama_ilmiah": "Thunnus albacares",
-        "gambar": "kamus/Tuna.jpg",
+        "gambar": "Kamus/Tuna.jpg",
         "profil": {
             "habitat": "Laut dalam, Perairan Tropis & Sub Tropis",
             "ukuran": "40 cm - 3m",
@@ -37,7 +37,7 @@
         "nama": "Tongkol",
         "nama_inggris": "Makarel Tuna",
         "nama_ilmiah": "Katsuwonus pelamis",
-        "gambar": "kamus/Tongkol.jpg",
+        "gambar": "Kamus/Tongkol.jpg",
         "profil": {
             "habitat": "hidup di perairan laut dangkal dekat pesisir, seperti di sekitar terumbu karang dan pulau-pulau kecil.",
             "ukuran": "17,0 cm - 59,63 cm",
@@ -73,7 +73,7 @@
         "nama": "Kembung",
         "nama_inggris": "Long jawed mackerel",
         "nama_ilmiah": "Rastrelliger kanagurta",
-        "gambar": "kamus/kembung.jpg",
+        "gambar": "Kamus/kembung.jpg",
         "profil": {
             "habitat": "Perairan dangkal dan lepas pantai, terutama di wilayah Indo-Pasifik barat. ​",
             "ukuran": "20 cm - 35 cm",
@@ -107,7 +107,7 @@
         "nama": "Bandeng",
         "nama_inggris": "Milkfish",
         "nama_ilmiah": "Chanos chanos",
-        "gambar": "kamus/Bandeng.jpg",
+        "gambar": "Kamus/Bandeng.jpg",
         "profil": {
             "habitat": "Perairan air tawar, payau, dan laut",
             "ukuran": "0-100 cm",
@@ -143,7 +143,7 @@
         "nama": "lele",
         "nama_inggris": "Walking Catfish",
         "nama_ilmiah": "Clarias batrachus",
-        "gambar": "kamus/Lele.jpg",
+        "gambar": "Kamus/Lele.jpg",
         "profil": {
             "habitat": "Perairan tawar seperti sungai berarus lambat, rawa, danau, waduk, serta kolam.",
             "ukuran": "rata-rata mencapai 20 cm",
@@ -167,7 +167,7 @@
         "nama": "Patin",
         "nama_inggris": "Pangas Catfish",
         "nama_ilmiah": "Pangasius pangasius",
-        "gambar": "kamus/Patin.jpg",
+        "gambar": "Kamus/Patin.jpg",
         "profil": {
             "habitat": "sungai-sungai besar, muara sungai, danau, kolam budidaya ",
             "ukuran": "0-1m",
@@ -202,7 +202,7 @@
         "nama": "Teri",
         "nama_inggris": "Anchovy",
         "nama_ilmiah": "Engraulidae",
-        "gambar": "kamus/Teri.jpg",
+        "gambar": "Kamus/Teri.jpg",
         "profil": {
             "habitat": "Laut dangkal & lepas pantai",
             "ukuran": "6-9 cm",
