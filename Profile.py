@@ -20,4 +20,4 @@ def about_me():
         st.markdown("📌 **LinkedIn:** [linkedin.com/in/stevengraciano](https://www.linkedin.com/in/stevengraciano/)")  
         
     with c2:
-        st.image("Assets\steven.jpg", use_container_width=True)  # Menampilkan gambar profil dengan ukuran yang sesuai
+        st.image("Assets/steven.jpg", use_container_width=True)  # Menampilkan gambar profil dengan ukuran yang sesuai

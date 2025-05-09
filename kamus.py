@@ -8,7 +8,7 @@ def kamus():
     st.divider()
 
     # Load JSON
-    with open("data_ikan.json", "r", encoding="utf-8") as file:
+    with open("Kamus/Data Ikan/data_ikan.json", "r", encoding="utf-8") as file:
         data = json.load(file)
 
     # Looping untuk menampilkan tiap ikan

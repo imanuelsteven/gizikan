@@ -1,0 +1,235 @@
+[
+    {
+        "nama": "Tuna",
+        "nama_inggris": "Yellowfin Tuna",
+        "nama_ilmiah": "Thunnus albacares",
+        "gambar": "kamus/Tuna.jpg",
+        "profil": {
+            "habitat": "Laut dalam, Perairan Tropis & Sub Tropis",
+            "ukuran": "40 cm - 3m",
+            "berat": "1-600kg",
+            "kecepatan": "Hingga 75km/jam"
+        },
+        "gizi": [
+            { "Nutrisi": "Energi", "Jumlah": "144 kkal", "Persen AKG": "6.70 %" },
+            { "Nutrisi": "Lemak total", "Jumlah": "4.90 g", "Persen AKG": "7.31%" },
+            { "Nutrisi": "Vitamin A", "Jumlah": "0.655 mg", "Persen AKG": "109.17 %" },
+            { "Nutrisi": "Vitamin B1", "Jumlah": "0.24 mg", "Persen AKG": "24%" },
+            { "Nutrisi": "Vitamin B2", "Jumlah": "0.25 mg", "Persen AKG": "25%" },
+            { "Nutrisi": "Vitamin B3", "Jumlah": "8.65 mg", "Persen AKG": "57.67 %" },
+            { "Nutrisi": "Vitamin C", "Jumlah": "0 mg", "Persen AKG": "0%" },
+            { "Nutrisi": "Karbohidrat total", "Jumlah": "0 mg", "Persen AKG": "0%" },
+            { "Nutrisi": "Serat pangan", "Jumlah": "0 mg", "Persen AKG": "0%" },
+            { "Nutrisi": "Kalsium", "Jumlah": "8 mg", "Persen AKG": "0.73 %" },
+            { "Nutrisi": "Fosfor", "Jumlah": "254 mg", "Persen AKG": "36.29 %" },
+            { "Nutrisi": "Natrium", "Jumlah": "39 mg", "Persen AKG": "2.60 %" },
+            { "Nutrisi": "Kalium", "Jumlah": "8 mg", "Persen AKG": "0.73 %" },
+            { "Nutrisi": "Tembaga", "Jumlah": "0.08 mg", "Persen AKG": "10 %" },
+            { "Nutrisi": "Besi", "Jumlah": "1.02 mg", "Persen AKG": "4.64 %" },
+            { "Nutrisi": "Seng", "Jumlah": "0.60 mg", "Persen AKG": "4.62 %" },
+            { "Nutrisi": "B-Karoten", "Jumlah": "0 mg", "Persen AKG": "0%" },
+            { "Nutrisi": "Air", "Jumlah": "68.09 g", "Persen AKG": "-" },
+            { "Nutrisi": "Abu", "Jumlah": "1.18 g", "Persen AKG": "0.73 %" }
+        ]
+
+    },
+    {
+        "nama": "Tongkol",
+        "nama_inggris": "Makarel Tuna",
+        "nama_ilmiah": "Katsuwonus pelamis",
+        "gambar": "kamus/Tongkol.jpg",
+        "profil": {
+            "habitat": "hidup di perairan laut dangkal dekat pesisir, seperti di sekitar terumbu karang dan pulau-pulau kecil.",
+            "ukuran": "17,0 cm - 59,63 cm",
+            "berat": "1-13,6 kg",
+            "kecepatan": "Hingga 60km/jam"
+        },
+            "gizi": [
+            { "Nutrisi": "Energi", "Jumlah": "100 kkal", "Persen AKG": "4.65 %" },
+            { "Nutrisi": "Lemak total", "Jumlah": "1.50 g", "Persen AKG": "2.24 %" },
+            { "Nutrisi": "Vitamin A", "Jumlah": "0.181 mg", "Persen AKG": "30.17 %" },
+            { "Nutrisi": "Vitamin B1", "Jumlah": "0.35 mg", "Persen AKG": "35 %" },
+            { "Nutrisi": "Vitamin B2", "Jumlah": "0.03 mg", "Persen AKG": "3 %" },
+            { "Nutrisi": "Vitamin B3", "Jumlah": "6.60 mg", "Persen AKG": "44 %" },
+            { "Nutrisi": "Vitamin C", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Karbohidrat total", "Jumlah": "8 g", "Persen AKG": "2.46 %" },
+            { "Nutrisi": "Protein", "Jumlah": "13.70 g", "Persen AKG": "22.83 %" },
+            { "Nutrisi": "Serat pangan", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Kalsium", "Jumlah": "92 mg", "Persen AKG": "8.36 %" },
+            { "Nutrisi": "Fosfor", "Jumlah": "606 mg", "Persen AKG": "86.57 %" },
+            { "Nutrisi": "Natrium", "Jumlah": "202 mg", "Persen AKG": "13.47 %" },
+            { "Nutrisi": "Kalium", "Jumlah": "227 mg", "Persen AKG": "4.83 %" },
+            { "Nutrisi": "Tembaga", "Jumlah": "0.200 mg", "Persen AKG": "25 %" },
+            { "Nutrisi": "Besi", "Jumlah": "1.70 mg", "Persen AKG": "7.73 %" },
+            { "Nutrisi": "Seng", "Jumlah": "1.60 mg", "Persen AKG": "12.31 %" },
+            { "Nutrisi": "B-Karoten", "Jumlah": "0 mg", "Persen AKG": "-" },
+            { "Nutrisi": "Karoten total", "Jumlah": "-", "Persen AKG": "-" },
+            { "Nutrisi": "Air", "Jumlah": "74.70 g", "Persen AKG": "-" },
+            { "Nutrisi": "Abu", "Jumlah": "2.10 g", "Persen AKG": "-" }
+        ]
+
+    },
+    {
+        "nama": "Kembung",
+        "nama_inggris": "Long jawed mackerel",
+        "nama_ilmiah": "Rastrelliger kanagurta",
+        "gambar": "kamus/kembung.jpg",
+        "profil": {
+            "habitat": "Perairan dangkal dan lepas pantai, terutama di wilayah Indo-Pasifik barat. ​",
+            "ukuran": "20 cm - 35 cm",
+            "berat": "kurang dari 1kg",
+            "kecepatan": "Hingga 58 km/jam"
+        },
+            "gizi": [
+            { "Nutrisi": "Energi", "Jumlah": "125 kkal", "Persen AKG": "5.81 %" },
+            { "Nutrisi": "Vitamin A", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Vitamin B1", "Jumlah": "0.26 mg", "Persen AKG": "26 %" },
+            { "Nutrisi": "Vitamin B2", "Jumlah": "0.03 mg", "Persen AKG": "3 %" },
+            { "Nutrisi": "Vitamin B3", "Jumlah": "0.20 mg", "Persen AKG": "1.33 %" },
+            { "Nutrisi": "Vitamin C", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Karbohidrat total", "Jumlah": "2.20 g", "Persen AKG": "0.68 %" },
+            { "Nutrisi": "Protein", "Jumlah": "21.30 g", "Persen AKG": "35.50 %" },
+            { "Nutrisi": "Serat pangan", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Kalsium", "Jumlah": "136 mg", "Persen AKG": "12.36 %" },
+            { "Nutrisi": "Fosfor", "Jumlah": "69 mg", "Persen AKG": "9.86 %" },
+            { "Nutrisi": "Natrium", "Jumlah": "214 mg", "Persen AKG": "14.27 %" },
+            { "Nutrisi": "Kalium", "Jumlah": "245 mg", "Persen AKG": "5.21 %" },
+            { "Nutrisi": "Tembaga", "Jumlah": "0.20 mg", "Persen AKG": "25 %" },
+            { "Nutrisi": "Besi", "Jumlah": "0.80 mg", "Persen AKG": "3.64 %" },
+            { "Nutrisi": "Seng", "Jumlah": "1.10 mg", "Persen AKG": "8.46 %" },
+            { "Nutrisi": "B-Karoten", "Jumlah": "0 mg", "Persen AKG": "-" },
+            { "Nutrisi": "Karoten total", "Jumlah": "-", "Persen AKG": "-" },
+            { "Nutrisi": "Air", "Jumlah": "71.40 g", "Persen AKG": "-" },
+            { "Nutrisi": "Abu", "Jumlah": "1.70 g", "Persen AKG": "-" }
+        ]
+    },
+    {
+        "nama": "Bandeng",
+        "nama_inggris": "Milkfish",
+        "nama_ilmiah": "Chanos chanos",
+        "gambar": "kamus/Bandeng.jpg",
+        "profil": {
+            "habitat": "Perairan air tawar, payau, dan laut",
+            "ukuran": "0-100 cm",
+            "berat": "Rata-rata 0,60 kg",
+            "kecepatan": "Hingga 60km/jam"
+        },
+            "gizi": [
+            { "Nutrisi": "Energi", "Jumlah": "123 kkal", "Persen AKG": "5.72 %" },
+            { "Nutrisi": "Lemak total", "Jumlah": "4.80 g", "Persen AKG": "7.16 %" },
+            { "Nutrisi": "Vitamin A", "Jumlah": "0.045 mg", "Persen AKG": "7.50 %" },
+            { "Nutrisi": "Vitamin B1", "Jumlah": "0.05 mg", "Persen AKG": "5 %" },
+            { "Nutrisi": "Vitamin B2", "Jumlah": "0.10 mg", "Persen AKG": "10 %" },
+            { "Nutrisi": "Vitamin B3", "Jumlah": "6 mg", "Persen AKG": "40 %" },
+            { "Nutrisi": "Vitamin C", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Karbohidrat total", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Protein", "Jumlah": "20 g", "Persen AKG": "33.33 %" },
+            { "Nutrisi": "Serat pangan", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Kalsium", "Jumlah": "20 mg", "Persen AKG": "1.82 %" },
+            { "Nutrisi": "Fosfor", "Jumlah": "150 mg", "Persen AKG": "21.43 %" },
+            { "Nutrisi": "Natrium", "Jumlah": "67 mg", "Persen AKG": "4.47 %" },
+            { "Nutrisi": "Kalium", "Jumlah": "271.10 mg", "Persen AKG": "5.77 %" },
+            { "Nutrisi": "Tembaga", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Besi", "Jumlah": "0.05 mg", "Persen AKG": "0.23 %" },
+            { "Nutrisi": "Seng", "Jumlah": "0.90 mg", "Persen AKG": "6.92 %" },
+            { "Nutrisi": "B-Karoten", "Jumlah": "0.021 mg", "Persen AKG": "-" },
+            { "Nutrisi": "Karoten total", "Jumlah": "-", "Persen AKG": "-" },
+            { "Nutrisi": "Air", "Jumlah": "74 g", "Persen AKG": "-" },
+            { "Nutrisi": "Abu", "Jumlah": "1.20 g", "Persen AKG": "-" }
+        ]
+
+    },
+    {
+        "nama": "lele",
+        "nama_inggris": "Walking Catfish",
+        "nama_ilmiah": "Clarias batrachus",
+        "gambar": "kamus/Lele.jpg",
+        "profil": {
+            "habitat": "Perairan tawar seperti sungai berarus lambat, rawa, danau, waduk, serta kolam.",
+            "ukuran": "rata-rata mencapai 20 cm",
+            "berat": "200-300g",
+            "kecepatan": "-"
+        },
+            "gizi": [
+            { "Nutrisi": "Energi", "Jumlah": "92 kkal", "Persen AKG": "4.28 %" },
+            { "Nutrisi": "Lemak total", "Jumlah": "2.82 g", "Persen AKG": "4.21 %" },
+            { "Nutrisi": "Vitamin A", "Jumlah": "0.070 mg", "Persen AKG": "11.67 %" },
+            { "Nutrisi": "Karbohidrat total", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Protein", "Jumlah": "16.20 g", "Persen AKG": "27 %" },
+            { "Nutrisi": "Serat pangan", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Kalsium", "Jumlah": "14 mg", "Persen AKG": "1.27 %" },
+            { "Nutrisi": "Natrium", "Jumlah": "42 mg", "Persen AKG": "2.80 %" },
+            { "Nutrisi": "Besi", "Jumlah": "0.25 mg", "Persen AKG": "1.14 %" }
+        ]
+
+    },
+    {
+        "nama": "Patin",
+        "nama_inggris": "Pangas Catfish",
+        "nama_ilmiah": "Pangasius pangasius",
+        "gambar": "kamus/Patin.jpg",
+        "profil": {
+            "habitat": "sungai-sungai besar, muara sungai, danau, kolam budidaya ",
+            "ukuran": "0-1m",
+            "berat": "500g - 30kg",
+            "kecepatan": "-"
+        },
+            "gizi": [
+            { "Nutrisi": "Energi", "Jumlah": "132 kkal", "Persen AKG": "6.14 %" },
+            { "Nutrisi": "Lemak total", "Jumlah": "6.60 g", "Persen AKG": "9.85 %" },
+            { "Nutrisi": "Vitamin A", "Jumlah": "0 mcg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Vitamin B1", "Jumlah": "0.20 mg", "Persen AKG": "20 %" },
+            { "Nutrisi": "Vitamin B2", "Jumlah": "0.03 mg", "Persen AKG": "3 %" },
+            { "Nutrisi": "Vitamin B3", "Jumlah": "1.70 mg", "Persen AKG": "11.33 %" },
+            { "Nutrisi": "Vitamin C", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Karbohidrat total", "Jumlah": "1.10 g", "Persen AKG": "0.34 %" },
+            { "Nutrisi": "Protein", "Jumlah": "17 g", "Persen AKG": "28.33 %" },
+            { "Nutrisi": "Serat pangan", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Kalsium", "Jumlah": "31 mg", "Persen AKG": "2.82 %" },
+            { "Nutrisi": "Fosfor", "Jumlah": "173 mg", "Persen AKG": "24.71 %" },
+            { "Nutrisi": "Natrium", "Jumlah": "77 mg", "Persen AKG": "5.13 %" },
+            { "Nutrisi": "Kalium", "Jumlah": "346 mg", "Persen AKG": "7.36 %" },
+            { "Nutrisi": "Tembaga", "Jumlah": "0.70 mg", "Persen AKG": "87.50 %" },
+            { "Nutrisi": "Besi", "Jumlah": "1.60 mg", "Persen AKG": "7.27 %" },
+            { "Nutrisi": "Seng", "Jumlah": "0.80 mg", "Persen AKG": "6.15 %" },
+            { "Nutrisi": "B-Karoten", "Jumlah": "7 mcg", "Persen AKG": "-" },
+            { "Nutrisi": "Air", "Jumlah": "74.40 g", "Persen AKG": "-" },
+            { "Nutrisi": "Abu", "Jumlah": "0.90 g", "Persen AKG": "-" }
+        ]
+
+    },
+    {
+        "nama": "Teri",
+        "nama_inggris": "Anchovy",
+        "nama_ilmiah": "Engraulidae",
+        "gambar": "kamus/Teri.jpg",
+        "profil": {
+            "habitat": "Laut dangkal & lepas pantai",
+            "ukuran": "6-9 cm",
+            "berat": "1-8g",
+            "kecepatan": "-"
+        },
+            "gizi": [
+            { "Nutrisi": "Energi", "Jumlah": "74 kkal", "Persen AKG": "3.44 %" },
+            { "Nutrisi": "Lemak total", "Jumlah": "1.40 g", "Persen AKG": "2.09 %" },
+            { "Nutrisi": "Vitamin A", "Jumlah": "13 mcg", "Persen AKG": "2.17 %" },
+            { "Nutrisi": "Vitamin B1", "Jumlah": "0.24 mg", "Persen AKG": "24 %" },
+            { "Nutrisi": "Vitamin B2", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Vitamin B3", "Jumlah": "1.90 mg", "Persen AKG": "12.67 %" },
+            { "Nutrisi": "Vitamin C", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Karbohidrat total", "Jumlah": "4.10 g", "Persen AKG": "1.26 %" },
+            { "Nutrisi": "Protein", "Jumlah": "10.30 g", "Persen AKG": "17.17 %" },
+            { "Nutrisi": "Serat pangan", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Kalsium", "Jumlah": "972 mg", "Persen AKG": "88.36 %" },
+            { "Nutrisi": "Fosfor", "Jumlah": "253 mg", "Persen AKG": "36.14 %" },
+            { "Nutrisi": "Natrium", "Jumlah": "554 mg", "Persen AKG": "36.93 %" },
+            { "Nutrisi": "Kalium", "Jumlah": "126.10 mg", "Persen AKG": "2.68 %" },
+            { "Nutrisi": "Tembaga", "Jumlah": "305,20", "Persen AKG": "38,150 %" },
+            { "Nutrisi": "Besi", "Jumlah": "3.90 mg", "Persen AKG": "17.73 %" },
+            { "Nutrisi": "Seng", "Jumlah": "0.20 mg", "Persen AKG": "1.54 %" },
+            { "Nutrisi": "B-Karoten", "Jumlah": "0 mcg", "Persen AKG": "-" },
+            { "Nutrisi": "Air", "Jumlah": "80 g", "Persen AKG": "-" },
+            { "Nutrisi": "Abu", "Jumlah": "4.20 g", "Persen AKG": "-" }
+        ]
+    }
+]
