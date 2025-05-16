@@ -128,8 +128,8 @@ if page == "🏠 Home":
     # Prediksi dan tampilkan data
 
     image = image_camera if image_camera is not None else image_upload
-    if image is not None:
-         st.image(image, caption="Gambar yang Dipilih", use_container_width=True)
+if image is not None:
+    st.image(image, caption="Gambar yang Dipilih", use_container_width=True)
 
     # Tambahkan loading spinner saat prediksi berlangsung
     with st.spinner("🔍 Memprediksi Kandungan Gizi..."):
@@ -140,6 +140,7 @@ if page == "🏠 Home":
     else:
         st.success(f"🎯 Jenis Ikan: **{ikan_pred}** ({confidence:.2f}% yakin)")
         tampilkan_info_ikan(ikan_pred)
+
 
 # ============ Halaman Lain ============
 elif page == "🐟 Kamus Ikan":
