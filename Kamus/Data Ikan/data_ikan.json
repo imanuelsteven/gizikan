@@ -224,12 +224,188 @@
             { "Nutrisi": "Fosfor", "Jumlah": "253 mg", "Persen AKG": "36.14 %" },
             { "Nutrisi": "Natrium", "Jumlah": "554 mg", "Persen AKG": "36.93 %" },
             { "Nutrisi": "Kalium", "Jumlah": "126.10 mg", "Persen AKG": "2.68 %" },
-            { "Nutrisi": "Tembaga", "Jumlah": "305,20", "Persen AKG": "38,150 %" },
+            { "Nutrisi": "Tembaga", "Jumlah": "305,20 mg", "Persen AKG": "38,150 %" },
             { "Nutrisi": "Besi", "Jumlah": "3.90 mg", "Persen AKG": "17.73 %" },
             { "Nutrisi": "Seng", "Jumlah": "0.20 mg", "Persen AKG": "1.54 %" },
-            { "Nutrisi": "B-Karoten", "Jumlah": "0 mcg", "Persen AKG": "-" },
+            { "Nutrisi": "B-Karoten", "Jumlah": "0 mg", "Persen AKG": "-" },
             { "Nutrisi": "Air", "Jumlah": "80 g", "Persen AKG": "-" },
             { "Nutrisi": "Abu", "Jumlah": "4.20 g", "Persen AKG": "-" }
+        ]
+    },
+    {
+        "nama": "Cakalang",
+        "nama_inggris": "Skipjack Tuna",
+        "nama_ilmiah": "Katsuwonus pelamis",
+        "gambar": "Kamus/Cakalang.jpg",
+        "profil": {
+            "habitat": "Laut lepas (pelagis), samudra tropis dan subtropis. Sering ditemukan di perairan terbuka, kedalaman 0-260 m.",
+            "ukuran": "Panjang rata-rata 40-80 cm, bisa mencapai 100 cm.",
+            "berat": "Rata-rata 3-6 kg, maksimal bisa hingga 34 kg.",
+            "kecepatan": "Termasuk ikan cepat, bisa berenang hingga 70 km/jam."
+        },
+            "gizi": [
+            { "Nutrisi": "Energi", "Jumlah": "117 kkal", "Persen AKG": "4.98%" },
+            { "Nutrisi": "Lemak total", "Jumlah": "0.70 g", "Persen AKG": "1.04 %" },
+            { "Nutrisi": "Vitamin A", "Jumlah": "0.386 mg", "Persen AKG": "64.33 %" },
+            { "Nutrisi": "Vitamin B1", "Jumlah": "0.17 mg", "Persen AKG": "17 %" },
+            { "Nutrisi": "Vitamin B2", "Jumlah": "0.05 mg", "Persen AKG": "5 %" },
+            { "Nutrisi": "Vitamin B3", "Jumlah": "21.70 mg", "Persen AKG": "144.67 %" },
+            { "Nutrisi": "Vitamin C", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Karbohidrat total", "Jumlah": "5.50 g", "Persen AKG": "1.69 %" },
+            { "Nutrisi": "Protein", "Jumlah": "19.60 g", "Persen AKG": "32.67 %" },
+            { "Nutrisi": "Serat pangan", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Kalsium", "Jumlah": "23 mg", "Persen AKG": "2.09 %" },
+            { "Nutrisi": "Fosfor", "Jumlah": "242 mg", "Persen AKG": "34.67 %" },
+            { "Nutrisi": "Natrium", "Jumlah": "66 mg", "Persen AKG": "4.40 %" },
+            { "Nutrisi": "Kalium", "Jumlah": "239 mg", "Persen AKG": "5.09 %" },
+            { "Nutrisi": "Tembaga", "Jumlah": "0.2 mg", "Persen AKG": "25 %" },
+            { "Nutrisi": "Besi", "Jumlah": "2.90 mg", "Persen AKG": "13.18 %" },
+            { "Nutrisi": "Seng", "Jumlah": "0.60 mg", "Persen AKG": "4.62 %" },
+            { "Nutrisi": "B-Karoten", "Jumlah": "0 mg", "Persen AKG": "-" },
+            { "Nutrisi": "Air", "Jumlah": "73 g", "Persen AKG": "-" },
+            { "Nutrisi": "Abu", "Jumlah": "1.20 g", "Persen AKG": "-" }
+        ]
+    },
+    {
+        "nama": "Kakap Merah",
+        "nama_inggris": "Red Snapper",
+        "nama_ilmiah": "Lutjanus campechanus",
+        "gambar": "Kamus/Kakap Merah.jpg",
+        "profil": {
+            "habitat": "Laut tropis, terumbu karang, kedalaman 10-200 meter",
+            "ukuran": "Panjang rata-rata 50-80 cm, bisa tumbuh hingga 100 cm.",
+            "berat": "Umumnya 3-10 kg, bisa mencapai hingga 22 kg.",
+            "kecepatan": "Sekitar 30-40 km/jam"
+        },
+            "gizi": [
+            { "Nutrisi": "Energi", "Jumlah": "86 kkal", "Persen AKG": "4%" },
+            { "Nutrisi": "Lemak total", "Jumlah": "0.80 g", "Persen AKG": "1.19 %" },
+            { "Nutrisi": "Vitamin A", "Jumlah": "0.026 mg", "Persen AKG": "4.33 %" },
+            { "Nutrisi": "Vitamin B1", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Vitamin B2", "Jumlah": "0.08 mg", "Persen AKG": "8 %" },
+            { "Nutrisi": "Vitamin B3", "Jumlah": "0.10 mg", "Persen AKG": "0.67 %" },
+            { "Nutrisi": "Vitamin C", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Karbohidrat total", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Protein", "Jumlah": "19.70 g", "Persen AKG": "32.83 %" },
+            { "Nutrisi": "Serat pangan", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Kalsium", "Jumlah": "50 mg", "Persen AKG": "4.55 %" },
+            { "Nutrisi": "Fosfor", "Jumlah": "170 mg", "Persen AKG": "24.29 %" },
+            { "Nutrisi": "Natrium", "Jumlah": "90 mg", "Persen AKG": "6 %" },
+            { "Nutrisi": "Kalium", "Jumlah": "290 mg", "Persen AKG": "6.17 %" },
+            { "Nutrisi": "Tembaga", "Jumlah": "0.3 mg", "Persen AKG": "37.50 %" },
+            { "Nutrisi": "Besi", "Jumlah": "0.30 mg", "Persen AKG": "13.18 %" },
+            { "Nutrisi": "Seng", "Jumlah": "0.10 mg", "Persen AKG": "0.77 %" },
+            { "Nutrisi": "B-Karoten", "Jumlah": "0 mg", "Persen AKG": "-" },
+            { "Nutrisi": "Air", "Jumlah": "78.50 g", "Persen AKG": "-" },
+            { "Nutrisi": "Abu", "Jumlah": "1.30 g", "Persen AKG": "-" }
+        ]
+    },
+    {
+        "nama": "Kakap Putih",
+        "nama_inggris": "Baramunndi",
+        "nama_ilmiah": "Lutjanus campechanus",
+        "gambar": "Kamus/Kakap Putih.jpg",
+        "profil": {
+            "habitat": "Perairan payau, muara sungai, dan laut dangkal. Bisa hidup di air tawar dan air asin.",
+            "ukuran": "Panjang rata-rata 60-100 cm, bisa tumbuh hingga 180 cm di alam liar.",
+            "berat": "Umumnya 5-10 kg, bisa mencapai hingga 60 kg.",
+            "kecepatan": "Diperkirakan sekitar 30-50 km/jam saat berburu mangsa."
+        },
+            "gizi": [
+            { "Nutrisi": "Energi", "Jumlah": "92 kkal", "Persen AKG": "4.28%" },
+            { "Nutrisi": "Lemak total", "Jumlah": "0.70 g", "Persen AKG": "1.04 %" },
+            { "Nutrisi": "Vitamin A", "Jumlah": "0.009 mg", "Persen AKG": "1.50 %" },
+            { "Nutrisi": "Vitamin B1", "Jumlah": "0.05 mg", "Persen AKG": "5 %" },
+            { "Nutrisi": "Vitamin B2", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Vitamin B3", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Vitamin C", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Karbohidrat total", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Protein", "Jumlah": "20 g", "Persen AKG": "33.33 %" },
+            { "Nutrisi": "Serat pangan", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Kalsium", "Jumlah": "20 mg", "Persen AKG": "1.82 %" },
+            { "Nutrisi": "Fosfor", "Jumlah": "200 mg", "Persen AKG": "28.57 %" },
+            { "Nutrisi": "Natrium", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Kalium", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Tembaga", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Besi", "Jumlah": "1 mg", "Persen AKG": "4.55 %" },
+            { "Nutrisi": "Seng", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "B-Karoten", "Jumlah": "0 mg", "Persen AKG": "-" },
+            { "Nutrisi": "Air", "Jumlah": "77 g", "Persen AKG": "-" },
+            { "Nutrisi": "Abu", "Jumlah": "2.30 g", "Persen AKG": "-" }
+        ]
+    },
+    {
+        "nama": "Mujair",
+        "nama_inggris": "Mozambique Tilapia",
+        "nama_ilmiah": "Oreochromis mossambicus",
+        "gambar": "Kamus/Mujair.jpg",
+        "profil": {
+            "habitat": "Perairan air tawar seperti sungai, danau, waduk, dan kolam. Kadang ditemukan di air payau.",
+            "ukuran": "Panjang rata-rata 20-35 cm, maksimal bisa mencapai 40 cm.",
+            "berat": "Biasanya 0.5-1.5 kg, bisa mencapai sekitar 2.5 kg.",
+            "kecepatan": "Diperkirakan sekitar 10-15 km/jam, bukan perenang cepat."
+        },
+            "gizi": [
+            { "Nutrisi": "Energi", "Jumlah": "89 kkal", "Persen AKG": "4.14%" },
+            { "Nutrisi": "Lemak total", "Jumlah": "1 g", "Persen AKG": "1.49 %" },
+            { "Nutrisi": "Vitamin A", "Jumlah": "0.006 mg", "Persen AKG": "1 %" },
+            { "Nutrisi": "Vitamin B1", "Jumlah": "0.03 mg", "Persen AKG": "3 %" },
+            { "Nutrisi": "Vitamin B2", "Jumlah": "0.10 mg", "Persen AKG": "10 %" },
+            { "Nutrisi": "Vitamin B3", "Jumlah": "2 mg", "Persen AKG": "13.33 %" },
+            { "Nutrisi": "Vitamin C", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Karbohidrat total", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Protein", "Jumlah": "18.70 g", "Persen AKG": "31.17 %" },
+            { "Nutrisi": "Serat pangan", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Kalsium", "Jumlah": "96 mg", "Persen AKG": "8.73 %" },
+            { "Nutrisi": "Fosfor", "Jumlah": "209 mg", "Persen AKG": "29.86 %" },
+            { "Nutrisi": "Natrium", "Jumlah": "51 mg", "Persen AKG": "3.40 %" },
+            { "Nutrisi": "Kalium", "Jumlah": "265.80 mg", "Persen AKG": "5.66 %" },
+            { "Nutrisi": "Tembaga", "Jumlah": "0 mg", "Persen AKG": "0 %" },
+            { "Nutrisi": "Besi", "Jumlah": "1.50 mg", "Persen AKG": "6.82 %" },
+            { "Nutrisi": "Seng", "Jumlah": "0.20 mg", "Persen AKG": "1.54 %" },
+            { "Nutrisi": "B-Karoten", "Jumlah": "0.003 mg", "Persen AKG": "-" },
+            { "Nutrisi": "Air", "Jumlah": "79.70 g", "Persen AKG": "-" },
+            { "Nutrisi": "Abu", "Jumlah": "1.10 g", "Persen AKG": "-" }
+        ]
+    },
+    {
+        "nama": "Nila",
+        "nama_inggris": "Tilapia",
+        "nama_ilmiah": "Oreochromis niloticus",
+        "gambar": "Kamus/Nila.jpg",
+        "profil": {
+            "habitat": "Air tawar seperti kolam, sungai, waduk, dan danau. Bisa juga hidup di air payau.",
+            "ukuran": "Panjang rata-rata 25-40 cm, bisa tumbuh hingga 60 cm dalam kondisi ideal.",
+            "berat": "Umumnya 0.5-2 kg, bisa mencapai hingga 5 kg.",
+            "kecepatan": "Sekitar 10-15 km/jam. Bukan perenang cepat, tapi cukup gesit di air tenang."
+        },
+            "gizi": [
+            { "Nutrisi": "Energi", "Jumlah": "96 kkal", "Persen AKG": "4.47%" },
+            { "Nutrisi": "Lemak total", "Jumlah": "1.70 g", "Persen AKG": "2.54 %" },
+            { "Nutrisi": "Karbohidrat total", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Protein", "Jumlah": "20.08 g", "Persen AKG": "33.47 %" },
+            { "Nutrisi": "Serat pangan", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Kalium", "Jumlah": "302 mg", "Persen AKG": "6.43 %" }
+        ]
+    },
+    {
+        "nama": "Tenggiri",
+        "nama_inggris": "Spanish Mackerel",
+        "nama_ilmiah": "Scomberomorus commerson",
+        "gambar": "Kamus/Tenggiri.jpg",
+        "profil": {
+            "habitat": "Laut tropis dan subtropis, terutama di perairan pantai dan laut lepas. Sering ditemukan di kedalaman 15–200 meter.",
+            "ukuran": "Panjang rata-rata 60-100 cm, bisa tumbuh hingga 240 cm.",
+            "berat": "Umumnya 5-15 kg, bisa mencapai hingga 70 kg di alam liar.",
+            "kecepatan": "Bisa mencapai 65 km/jam, termasuk perenang cepat karena tubuhnya ramping dan aerodinamis."
+        },
+            "gizi": [
+            { "Nutrisi": "Energi", "Jumlah": "139 kkal", "Persen AKG": "6.47%" },
+            { "Nutrisi": "Lemak total", "Jumlah": "6.30 g", "Persen AKG": "9.40 %" },
+            { "Nutrisi": "Karbohidrat total", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Protein", "Jumlah": "19.30 g", "Persen AKG": "32.17 %" },
+            { "Nutrisi": "Serat pangan", "Jumlah": "0 g", "Persen AKG": "0 %" },
+            { "Nutrisi": "Natrium", "Jumlah": "59 mg", "Persen AKG": "3.93 %" }
         ]
     }
 ]
