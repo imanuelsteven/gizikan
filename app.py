@@ -6,6 +6,7 @@ from PIL import Image
 import json
 from Profile import about_me
 from kamus import kamus
+from Article import article
 from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 
 # ============ Load Model dan Data ============
@@ -109,7 +110,7 @@ with st.sidebar:
         """
     )
 
-page = st.sidebar.selectbox("**Pilih Halaman**", ["🏠 Home", "🐟 Kamus Ikan", "ℹ️ Tentang Pembuat"])
+page = st.sidebar.selectbox("**Pilih Halaman**", ["🏠 Home", "🐟 Kamus Ikan", "ℹ️ Tentang Pembuat", "📘 Panduan Membaca Tabel Gizi"])
 
 # ============ Halaman Utama ============
 if page == "🏠 Home":
@@ -149,3 +150,5 @@ elif page == "🐟 Kamus Ikan":
 elif page == "ℹ️ Tentang Pembuat":
     about_me()
 
+elif page == "📘 Panduan Membaca Tabel Gizi":
+    article()
