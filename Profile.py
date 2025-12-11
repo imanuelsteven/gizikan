@@ -1,7 +1,7 @@
 import streamlit as st
 
 def about_me():
-    st.title("About the Creator")
+    st.markdown('<div class="profile-title">About the Creator</div>', unsafe_allow_html=True)
     
     c1, c2 = st.columns([2, 1])  # Membuat kolom dengan rasio 2:1 untuk teks & gambar
     

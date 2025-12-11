@@ -1,7 +1,7 @@
 import streamlit as st
 
 def article():
-    st.title("📊 Cara Membaca Tabel Informasi Gizi")
+    st.markdown('<div class="baca-title">Panduan Membaca Tabel Gizi</div>', unsafe_allow_html=True)
     st.write("Pahami arti nutrisi, jumlah zat gizi, dan % AKG agar bisa lebih bijak dalam memilih makanan.")
     st.markdown("---")
 
@@ -9,13 +9,11 @@ def article():
     st.image('Tabel Gizi/Nutrisi.svg')
 
     st.markdown("""
-    Nutrisi adalah **zat gizi** yang terkandung dalam makanan/minuman yang dibutuhkan tubuh buat:
+    Nutrisi adalah **zat gizi** yang terkandung dalam makanan/minuman yang dibutuhkan tubuh untuk:
                 
-    -⚡ Menghasilkan energi
-                
-    -🛡️ Menjaga sistem imun
-                
-    -🔧 Memperbaiki sel-sel tubuh
+    * **⚡ Menghasilkan energi**
+    * **🛡️ Menjaga sistem imun**
+    * **🔧 Memperbaiki sel-sel tubuh**
 
     **Jenis nutrisi:**
     - **Makronutrien**: Protein, lemak, karbohidrat, kalori

@@ -4,7 +4,9 @@ import json
 
 
 def kamus():
-    st.title("Kamus Gizikan🐟")
+    st.markdown('<div class="kamus-title">Kamus Ikan</div>', unsafe_allow_html=True)
+    st.markdown('<div class="kamus-subtitle">Page ini berfungsi untuk mengetahui jenis-jenis ikan yang dapat di prediksi dan kandungan gizinya.</div>', unsafe_allow_html=True)
+
     st.divider()
 
     # Load JSON
@@ -13,13 +15,12 @@ def kamus():
 
     # Looping untuk menampilkan tiap ikan
     for idx, ikan in enumerate(data, start=1):
-        st.header(f"{idx}. {ikan['nama']} ({ikan['nama_inggris']})")
+        st.markdown(f"<div class='ikan-title'>{idx}. {ikan['nama']} ({ikan['nama_inggris']})</div>", unsafe_allow_html=True)
         st.image(ikan["gambar"])
 
         # Expander Profil Ikan
-        with st.expander("📌 Profil Ikan"):
-            for key, value in ikan["profil"].items():
-                st.write(f"**{key.capitalize()}**: {value}")
+        with st.expander("📌 Manfaat"):
+             st.write(ikan["manfaat"].get("manfaat", "-"))
 
         # Expander Kandungan Gizi
         with st.expander("🍽️ Kandungan Gizi"):

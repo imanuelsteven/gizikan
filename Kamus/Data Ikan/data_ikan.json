@@ -4,11 +4,8 @@
         "nama_inggris": "Yellowfin Tuna",
         "nama_ilmiah": "Thunnus albacares",
         "gambar": "Kamus/Tuna.jpg",
-        "profil": {
-            "habitat": "Laut dalam, Perairan Tropis & Sub Tropis",
-            "ukuran": "40 cm - 3m",
-            "berat": "1-600kg",
-            "kecepatan": "Hingga 75km/jam"
+        "manfaat": {
+            "manfaat": "Sangat tinggi Vitamin A (109% AKG) yang krusial untuk menjaga kesehatan mata dan sistem kekebalan tubuh. Selain itu, ikan ini juga mengandung Vitamin B3 yang cukup tinggi untuk membantu metabolisme energi dan menjaga kesehatan kulit."
         },
         "gizi": [
             { "Nutrisi": "Energi", "Jumlah": "144 kkal", "% Persen AKG": "6.70 %" },
@@ -31,18 +28,14 @@
             { "Nutrisi": "Air", "Jumlah": "68.09 g", "% Persen AKG": "-" },
             { "Nutrisi": "Abu", "Jumlah": "1.18 g", "% Persen AKG": "0.73 %" }
         ]
-
     },
     {
         "nama": "Tongkol",
         "nama_inggris": "Makarel Tuna",
         "nama_ilmiah": "Katsuwonus pelamis",
         "gambar": "Kamus/Tongkol.jpg",
-        "profil": {
-            "habitat": "hidup di perairan laut dangkal dekat pesisir, seperti di sekitar terumbu karang dan pulau-pulau kecil.",
-            "ukuran": "17,0 cm - 59,63 cm",
-            "berat": "1-13,6 kg",
-            "kecepatan": "Hingga 60km/jam"
+        "manfaat": {
+            "manfaat": "Luar biasa untuk kesehatan tulang dan gigi karena kandungan Fosfor yang sangat tinggi (86% AKG). Ikan ini juga kaya akan Vitamin B3 dan Vitamin B1 yang efektif mengubah karbohidrat menjadi energi dan menjaga fungsi saraf."
         },
             "gizi": [
             { "Nutrisi": "Energi", "Jumlah": "100 kkal", "% Persen AKG": "4.65 %" },
@@ -74,11 +67,8 @@
         "nama_inggris": "Long jawed mackerel",
         "nama_ilmiah": "Rastrelliger kanagurta",
         "gambar": "Kamus/kembung.jpg",
-        "profil": {
-            "habitat": "Perairan dangkal dan lepas pantai, terutama di wilayah Indo-Pasifik barat. ​",
-            "ukuran": "20 cm - 35 cm",
-            "berat": "kurang dari 1kg",
-            "kecepatan": "Hingga 58 km/jam"
+        "manfaat": {
+            "manfaat": "Sumber Protein super tinggi (35.5% AKG) yang sangat cocok untuk pembentukan otot dan pemulihan jaringan tubuh, serta mengandung kalsium yang cukup baik (12%) untuk menjaga kepadatan tulang."
         },
             "gizi": [
             { "Nutrisi": "Energi", "Jumlah": "125 kkal", "% Persen AKG": "5.81 %" },
@@ -108,11 +98,8 @@
         "nama_inggris": "Milkfish",
         "nama_ilmiah": "Chanos chanos",
         "gambar": "Kamus/Bandeng.jpg",
-        "profil": {
-            "habitat": "Perairan air tawar, payau, dan laut",
-            "ukuran": "0-100 cm",
-            "berat": "Rata-rata 0,60 kg",
-            "kecepatan": "Hingga 60km/jam"
+        "manfaat": {
+            "manfaat": "Kaya Vitamin B3 (40% AKG) yang membantu menurunkan kolesterol jahat dan mendukung kesehatan kardiovaskular. Ikan ini juga mengandung Protein tinggi (33% AKG) dan Fosfor (21%) untuk kekuatan tubuh dan tulang."
         },
             "gizi": [
             { "Nutrisi": "Energi", "Jumlah": "123 kkal", "% Persen AKG": "5.72 %" },
@@ -144,11 +131,8 @@
         "nama_inggris": "Walking Catfish",
         "nama_ilmiah": "Clarias batrachus",
         "gambar": "Kamus/Lele.jpg",
-        "profil": {
-            "habitat": "Perairan tawar seperti sungai berarus lambat, rawa, danau, waduk, serta kolam.",
-            "ukuran": "rata-rata mencapai 20 cm",
-            "berat": "200-300g",
-            "kecepatan": "-"
+        "manfaat": {
+            "manfaat": "Pilihan tepat untuk diet karena rendah kalori (92 kkal) namun tetap menyumbang Protein yang baik (27% AKG), serta mengandung Vitamin A yang cukup (11.6%) untuk menjaga kesehatan penglihatan."
         },
             "gizi": [
             { "Nutrisi": "Energi", "Jumlah": "92 kkal", "% Persen AKG": "4.28 %" },
@@ -168,11 +152,8 @@
         "nama_inggris": "Pangas Catfish",
         "nama_ilmiah": "Pangasius pangasius",
         "gambar": "Kamus/Patin.jpg",
-        "profil": {
-            "habitat": "sungai-sungai besar, muara sungai, danau, kolam budidaya ",
-            "ukuran": "0-1m",
-            "berat": "500g - 30kg",
-            "kecepatan": "-"
+        "manfaat": {
+            "manfaat": "Sangat tinggi Tembaga (87.5% AKG) yang vital untuk pembentukan sel darah merah dan kesehatan sistem saraf. Ikan ini juga merupakan sumber Fosfor yang baik (24%) untuk kesehatan tulang."
         },
             "gizi": [
             { "Nutrisi": "Energi", "Jumlah": "132 kkal", "% Persen AKG": "6.14 %" },
@@ -203,11 +184,8 @@
         "nama_inggris": "Anchovy",
         "nama_ilmiah": "Engraulidae",
         "gambar": "Kamus/Teri.jpg",
-        "profil": {
-            "habitat": "Laut dangkal & lepas pantai",
-            "ukuran": "6-9 cm",
-            "berat": "1-8g",
-            "kecepatan": "-"
+        "manfaat": {
+            "manfaat": "Superfood untuk tulang! Mengandung Kalsium luar biasa tinggi (88% AKG), sangat baik untuk mencegah osteoporosis. Ikan ini juga kaya Tembaga, Natrium, dan Fosfor yang mendukung keseimbangan elektrolit dan kekuatan gigi."
         },
             "gizi": [
             { "Nutrisi": "Energi", "Jumlah": "74 kkal", "% Persen AKG": "3.44 %" },
@@ -237,11 +215,8 @@
         "nama_inggris": "Skipjack Tuna",
         "nama_ilmiah": "Katsuwonus pelamis",
         "gambar": "Kamus/Cakalang.jpg",
-        "profil": {
-            "habitat": "Laut lepas (pelagis), samudra tropis dan subtropis. Sering ditemukan di perairan terbuka, kedalaman 0-260 m.",
-            "ukuran": "Panjang rata-rata 40-80 cm, bisa mencapai 100 cm.",
-            "berat": "Rata-rata 3-6 kg, maksimal bisa hingga 34 kg.",
-            "kecepatan": "Termasuk ikan cepat, bisa berenang hingga 70 km/jam."
+        "manfaat": {
+            "manfaat": "Kandungan Vitamin B3 sangat melimpah (144% AKG), sangat efektif menurunkan kolesterol dan meningkatkan fungsi otak. Selain itu, ikan ini juga tinggi Vitamin A (64%) untuk mata dan Fosfor (34%) untuk struktur tulang yang kuat."
         },
             "gizi": [
             { "Nutrisi": "Energi", "Jumlah": "117 kkal", "% Persen AKG": "4.98%" },
@@ -271,11 +246,8 @@
         "nama_inggris": "Red Snapper",
         "nama_ilmiah": "Lutjanus campechanus",
         "gambar": "Kamus/Kakap Merah.jpg",
-        "profil": {
-            "habitat": "Laut tropis, terumbu karang, kedalaman 10-200 meter",
-            "ukuran": "Panjang rata-rata 50-80 cm, bisa tumbuh hingga 100 cm.",
-            "berat": "Umumnya 3-10 kg, bisa mencapai hingga 22 kg.",
-            "kecepatan": "Sekitar 30-40 km/jam"
+        "manfaat": {
+            "manfaat": "Sumber Protein yang solid (32% AKG) dengan kandungan Tembaga yang tinggi (37.5%) untuk kesehatan darah. Ikan ini juga rendah kalori (86 kkal), menjadikannya pilihan protein yang sangat sehat tanpa takut gemuk."
         },
             "gizi": [
             { "Nutrisi": "Energi", "Jumlah": "86 kkal", "% Persen AKG": "4%" },
@@ -305,11 +277,8 @@
         "nama_inggris": "Baramunndi",
         "nama_ilmiah": "Lutjanus campechanus",
         "gambar": "Kamus/Kakap Putih.jpg",
-        "profil": {
-            "habitat": "Perairan payau, muara sungai, dan laut dangkal. Bisa hidup di air tawar dan air asin.",
-            "ukuran": "Panjang rata-rata 60-100 cm, bisa tumbuh hingga 180 cm di alam liar.",
-            "berat": "Umumnya 5-10 kg, bisa mencapai hingga 60 kg.",
-            "kecepatan": "Diperkirakan sekitar 30-50 km/jam saat berburu mangsa."
+        "manfaat": {
+            "manfaat": "Ikan rendah lemak (hanya 0.70g) dengan Protein tinggi (33% AKG), ideal untuk binaraga atau diet ketat, serta mengandung Fosfor yang baik (28%) untuk menunjang metabolisme dan kekuatan tulang."
         },
             "gizi": [
             { "Nutrisi": "Energi", "Jumlah": "92 kkal", "% Persen AKG": "4.28%" },
@@ -339,11 +308,8 @@
         "nama_inggris": "Mozambique Tilapia",
         "nama_ilmiah": "Oreochromis mossambicus",
         "gambar": "Kamus/Mujair.jpg",
-        "profil": {
-            "habitat": "Perairan air tawar seperti sungai, danau, waduk, dan kolam. Kadang ditemukan di air payau.",
-            "ukuran": "Panjang rata-rata 20-35 cm, maksimal bisa mencapai 40 cm.",
-            "berat": "Biasanya 0.5-1.5 kg, bisa mencapai sekitar 2.5 kg.",
-            "kecepatan": "Diperkirakan sekitar 10-15 km/jam, bukan perenang cepat."
+        "manfaat": {
+            "manfaat": "Sumber protein yang seimbang (31% AKG) dan Fosfor (29%), baik untuk pertumbuhan anak dan pemeliharaan sel tubuh. Ikan ini rendah lemak namun tetap memberikan energi yang cukup untuk aktivitas sehari-hari."
         },
             "gizi": [
             { "Nutrisi": "Energi", "Jumlah": "89 kkal", "% Persen AKG": "4.14%" },
@@ -373,11 +339,8 @@
         "nama_inggris": "Tilapia",
         "nama_ilmiah": "Oreochromis niloticus",
         "gambar": "Kamus/Nila.jpg",
-        "profil": {
-            "habitat": "Air tawar seperti kolam, sungai, waduk, dan danau. Bisa juga hidup di air payau.",
-            "ukuran": "Panjang rata-rata 25-40 cm, bisa tumbuh hingga 60 cm dalam kondisi ideal.",
-            "berat": "Umumnya 0.5-2 kg, bisa mencapai hingga 5 kg.",
-            "kecepatan": "Sekitar 10-15 km/jam. Bukan perenang cepat, tapi cukup gesit di air tenang."
+        "manfaat": {
+            "manfaat": "Sangat baik untuk pembentukan otot karena Proteinnya tinggi (33% AKG), serta mengandung Kalium (6.4%) yang membantu menjaga fungsi otot dan saraf agar tetap optimal."
         },
             "gizi": [
             { "Nutrisi": "Energi", "Jumlah": "96 kkal", "% Persen AKG": "4.47%" },
@@ -393,11 +356,8 @@
         "nama_inggris": "Spanish Mackerel",
         "nama_ilmiah": "Scomberomorus commerson",
         "gambar": "Kamus/Tengiri.jpg",
-        "profil": {
-            "habitat": "Laut tropis dan subtropis, terutama di perairan pantai dan laut lepas. Sering ditemukan di kedalaman 15–200 meter.",
-            "ukuran": "Panjang rata-rata 60-100 cm, bisa tumbuh hingga 240 cm.",
-            "berat": "Umumnya 5-15 kg, bisa mencapai hingga 70 kg di alam liar.",
-            "kecepatan": "Bisa mencapai 65 km/jam, termasuk perenang cepat karena tubuhnya ramping dan aerodinamis."
+        "manfaat": {
+            "manfaat": "Sumber energi yang kuat (139 kkal) dengan protein tinggi (32%), cocok untuk orang yang aktif. Ikan ini juga memiliki lemak sehat alami yang baik untuk penyerapan vitamin larut lemak."
         },
             "gizi": [
             { "Nutrisi": "Energi", "Jumlah": "139 kkal", "% Persen AKG": "6.47%" },
