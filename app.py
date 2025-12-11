@@ -43,7 +43,7 @@ st.markdown(
 
         .app-title {
             font-family: 'Poppins', sans-serif;
-            font-size: 3.5rem !important;
+            font-size: 3.7rem !important;
             font-weight: 800;
             background: linear-gradient(120deg, #ffffff 0%, #a5f3fc 100%);
             -webkit-background-clip: text;
