@@ -9,6 +9,10 @@ from kamus import kamus
 from Article import article
 from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 
+st.cache_data.clear()
+st.cache_resource.clear()
+
+
 # ============ 1. Konfigurasi Halaman (WAJIB PALING ATAS) ============
 st.set_page_config(
     page_title="Gizikan",
