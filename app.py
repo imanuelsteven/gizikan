@@ -44,7 +44,7 @@ st.markdown(
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap');
 
-        /* Title Styles */
+
         .app-title {
             font-family: 'Poppins', sans-serif;
             font-size: 3.5rem !important;
