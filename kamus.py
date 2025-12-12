@@ -26,6 +26,8 @@ def kamus():
         with st.expander("🍽️ Kandungan Gizi"):
             st.write("per 100g")
             df_gizi = pd.DataFrame(ikan["gizi"])
+            # Mengubah index agar dimulai dari 1 (bukan 0)
+            df_gizi.index = df_gizi.index + 1 
             st.dataframe(df_gizi)
 
         st.divider()  # Garis pemisah antar ikan

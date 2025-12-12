@@ -39,8 +39,6 @@ st.markdown(
     """
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap');
-
-
         .app-title {
             font-family: 'Poppins', sans-serif;
             font-size: 3.7rem !important;
@@ -203,7 +201,9 @@ def tampilkan_info_ikan(nama_ikan_prediksi):
         with st.expander("🍽️ Kandungan Gizi", expanded=True):
             st.write("per 100g")
             df_gizi = pd.DataFrame(ikan_terpilih["gizi"])
-            st.dataframe(df_gizi)
+            # Mengubah index agar dimulai dari 1 (bukan 0)
+            df_gizi.index = df_gizi.index + 1 
+            st.dataframe(df_gizi)   
     else:
         st.warning("⚠️ Data ikan tidak ditemukan di kamus.")
 
